@@ -1,0 +1,196 @@
+vistas,votos,respuestas,tag,pregunta
+328,2,2,active,Error convertir varchar en int codeigniter sql server
+23,1,1,active,Firebase - Android. Restar stock de un carro de compras
+6,0,1,active,Como alternar los colores de fila en un ListView en Android?
+3,0,0,active,Como hacer varias cuentas regresivas segun la cantidad de fechas que tenga guardas en mi tabla?
+5,0,0,active,Recarga de gráfico con datos dinámicos utilizando ChartJS
+331,1,1,active,Implementar Filtro de Seguridad API REST - CORS - Spring Framework 4.1
+19,0,0,active,Firestore Google Data Studio
+16,-3,1,active,Como conectar MSSQL server a Data Studio?
+6,-2,0,active,Como saber cuando se desbloquea con éxito o no la pantalla de inicio
+10,0,1,active,Error 404 al cargar rutas en laravel
+10,0,0,active,Servicio requerido pero no encontrado en constructor - service required but not found en constructor
+11,0,1,active,Rails insertando un registro de otro modelo
+7,-3,0,active,¿como puedo mostrar la cantidad de mensajes no leídos en el icono de mi app Android?
+18,1,0,active,Not supported for select queries HIBERNATE+JAVA+HQL
+15,0,1,active,¿Como modificar un Label en python3 desde un método o función?
+13,0,0,active,NullPointerException al mostrar información en tabla Java JFrameForm
+672,0,2,active,Borrar/subir proyectos a git hub
+4,0,0,active,Angular & Firebase comparar IDs de colecciones distintas y si es igual mostrar
+15,-1,0,active,¿Cómo puedo obtener y mostrar en Android Studio una imagen que esta almacenada en blob en la base de datos? [en espera]
+12,0,0,active,Validación de campos Cliente/Empresa
+11,1,0,active,Leer un segmento de un Stream en C#
+341,0,1,active,Obtener el valor enviado de un primer formulario y mostrarlo en otro
+8,0,0,active,Como cargar una Imagen en delphi salvada desde c#
+17,0,2,active,"¿Como puedo devolver los valores de -1, 0 y 1 dependiendo del calculo IMC?"
+7,0,0,active,VueRouter - Insertar un CLASS a un elemento según el valor de la ruta actual
+369,0,3,active,¿Cómo abrir nueva ventana desde botón en control repeater Asp.Net?
+13,0,1,active,Jaspersoft espacio entre tablas
+7k,1,3,active,¿Cómo agregar privilegio Super a mi usuario de MySQL? en PhpMyAdmin
+16,0,2,active,¿Alguien tiene este problema en Android Studio Failed to resolve: firebase-database-15.0.0?
+13,-2,0,active,Listar datos de una tabla foránea en MariaDB
+11,0,1,active,¿Como salir de un proyecto en Firebase?
+9,0,0,active,Validacion de repetidos en XText
+2k,0,3,active,Error al listar cliente en WCF
+14,0,0,active,Problema al adaptar contenido
+18,0,0,active,¿Cual es el orden de ejecución correcto de las sentencias sql?
+498,1,3,active,Como colocar una imagen en un pdf existente con Itexsharp?
+14,0,0,active,"DUDA VUE, error para escuchar evento desde un componente a la instancia principal(single file components)"
+7,0,0,active,¿como graficar con chart?
+372,0,1,active,mostrar datos de tabla relacionada con LINQ
+13,0,0,active,Update Campos tipo fecha sql server desde c#
+6,0,0,active,Mostrar opciones de un Dropdownlist de una lista
+7,0,0,active,TypeError: _react2.default.PropTypes is undefined
+12,0,0,active,Error en condicional con un array 2d
+9,-1,0,active,Convertir valor varchar a int sqlserver manegement studio v17.9
+12,0,0,active,Como Crear un TextView con auto scroll en vertical en android
+17,0,0,active,Problemas al compilar un main en C
+16,0,0,active,¿por que ocurre problemas de carga en el sistema web?
+12,0,0,active,como obtener el valor exacto de un checkbox
+114,2,2,featured,Modificar el tamaño de letra (o el estilo) del título de un gráfico con PHPExcel o PHPSpreadsheet
+40,1,1,featured,Error mod_wsgi django
+62,2,2,featured,R: como evitar que las etiquetas de un gráfico se solapen
+27,2,0,featured,Crear script sh que simule cambio de ventana con screen y pulsaciones de teclas con xdotool
+203,16,2,week,¿Cómo organizar una lista de colores de forma eficiente?
+109,4,3,week,Cual es la diferencia entre una etiqueta y un elemento en HTML
+123,1,5,week,"¿Por qué este código tan simple y aparentemente correcto, da error de compilación?"
+47,1,3,week,Imprimir las primeras letras de una frase
+51,3,2,week,Centrar dos botones dentro de una columna
+63,1,4,week,Darle eventos a un checkbox
+80,2,1,week,Calcular el área de un triángulo
+64,1,2,week,¿Me pueden explicar que significa “paises.listIterator()”?
+62,5,2,week,Oscurecer el fondo al clicar en botón flotante
+63,2,3,week,¿Como habilitar un input text y un select que estan deshabilitados y contenidos en un tr?
+62,1,1,week,Sustituir Imágenes dentro de una Tabla. Usando JavaScript
+57,3,3,week,AUTO_INCREMENT en MySQL
+12,0,0,hot,Validación de campos Cliente/Empresa
+11,1,0,hot,Leer un segmento de un Stream en C#
+13,0,0,hot,NullPointerException al mostrar información en tabla Java JFrameForm
+63,0,3,week,Código JS se ejecuta al cargar página en vez de al pulsar botón
+49,2,1,week,Duda Java + MySQL
+38,0,2,week,Error en sumatorio
+62,2,2,week,¿Cómo cambiar un número en Hover con CSS?
+62,2,2,week,R: como evitar que las etiquetas de un gráfico se solapen
+57,2,2,week,¿Como obtener la semana anterior ORACLE?
+151,-1,1,week,Intento adapatar Python a Sublime Text pero me muestra el siguiente mensaje por pantalla: there are no packages available for installation
+32,4,1,week,Calcular media de las notas de un array bidimensional
+40,1,2,week,Transformar variable tipo nulo a entero
+39,0,3,week,¿Cómo puedo declarar una función lambda como argumento en una función?
+49,0,3,week,¿ Como deshabilitar validacion de formulario en elementos dentro de un fieldset o div?
+62,-2,2,week,SOLUCIONADO - No se como hacer para que el histograma me salga horizontal
+37,1,2,week,Re-Ordenar array de objetos según parámetro especifico
+17,0,2,hot,"¿Como puedo devolver los valores de -1, 0 y 1 dependiendo del calculo IMC?"
+18,0,0,hot,¿Cual es el orden de ejecución correcto de las sentencias sql?
+14,0,0,hot,"DUDA VUE, error para escuchar evento desde un componente a la instancia principal(single file components)"
+14,0,0,hot,Problema al adaptar contenido
+13,0,1,hot,Jaspersoft espacio entre tablas
+13,-2,0,hot,Listar datos de una tabla foránea en MariaDB
+11,0,1,hot,¿Como salir de un proyecto en Firebase?
+31,-2,1,hot,Consumir una API
+16,0,0,hot,¿por que ocurre problemas de carga en el sistema web?
+17,1,3,hot,Error al convertir una cadena de caracteres en fecha y/u hora en sql server
+15,-1,0,hot,¿Cómo puedo obtener y mostrar en Android Studio una imagen que esta almacenada en blob en la base de datos? [en espera]
+13,0,0,hot,Update Campos tipo fecha sql server desde c#
+12,0,0,hot,como obtener el valor exacto de un checkbox
+12,0,0,hot,Como Crear un TextView con auto scroll en vertical en android
+12,0,0,hot,Error en condicional con un array 2d
+50,0,1,hot,"No entra a if, para comparar"
+17,0,0,hot,Problemas al compilar un main en C
+61,0,3,week,"Problema en CSS con <li> , background"
+28,2,3,week,For loop Rand sin repetir números
+76,1,5,week,Crear variables dinamicamente de acuerdo a elementos html creados dinamicamente
+43,2,1,week,SQL - Totalizar suma realizada de tablas de bases de datos diferentes
+52,1,1,week,¿Porque la tarea programada no ejecuta la aplicación?
+83,0,1,week,¿Como agregar texto a un link?
+38,0,1,week,¿Cómo puedo obtener el valor de una sola propiedad en C# usando Newtonsoft?
+23,2,3,week,¿Por qué recibo este error en un caso pero no en el otro? “UnboundLocalError: local variable 'cantidad' referenced before assignment.”
+37,1,1,week,Reestructurar condiciones if
+36,0,1,week,¿Como muestro en un Div una Imagen que esta en Base64?
+28,1,2,week,¿Qué metodo me devuelve la clave dando como argumento su valor en los diccionarios?
+76,0,1,week,Modificar la tabla de AspNetUser para que dependa de otra
+59,1,2,week,RecyclerView con setOnClickListener
+59,1,4,week,¿Cómo recortar una cadena de texto con el comando “sed”?
+59,1,2,week,Error al llamar API desde JavaScript
+58,1,1,week,¿Es posible pasar parametros provenientes del html a alguna funcion que este contenida en el created() {… }?
+203,16,2,month,¿Cómo organizar una lista de colores de forma eficiente?
+27,0,2,hot,como puedo comparar dos fechas que son de tipo datetime pero que se compare todo excepto los milisegundos de dicha fecha
+27,2,2,hot,Cómo puedo volver el siguiente código de querySelector a querySelectorAll
+18,1,1,hot,SQL Server + excel
+13,0,0,hot,¿Como contar líneas de un archivo txt excluyendo comentarios (#) y líneas en blanco en Python 3?
+13,0,0,hot,Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+13,0,0,hot,Consulta con OR para solucion de inicio de sesión mediante EMAIL o NOMBRE DE USUARIO
+22,0,0,hot,Fallo al hacer un post en un form de laravel
+12,0,0,hot,Codigo que agrega una opcion en el mismo
+20,0,0,hot,RecyclerView. Iterar todos los items
+22,0,2,hot,Validar Datos ingresado anteriorimente conJS
+18,-1,0,hot,Comprobar si un input esta vacio con Typescript Angular 6
+44,2,4,hot,¿Cambiar formato de fecha “31/12/2018 0:00:00” a “2018-12-31” CON PHP?
+16,-3,1,hot,Como conectar MSSQL server a Data Studio?
+24,0,1,hot,En este código al entrar se ejecuta el código
+15,0,1,hot,¿Como modificar un Label en python3 desde un método o función?
+15,0,2,hot,Como puedo crear un badget de instagram para mi pagina web?
+45,1,3,week,La consulta se envía apenas entrar a la página
+74,0,5,week,¿Como obtener el valor seleccionado en jQuery Dropdown?
+57,0,1,week,Imprimir valor en un input text
+44,0,2,week,¿Por qué esta variable debe contener false?
+56,1,1,week,Ayuda con polimorfismo
+43,1,2,week,Mal funcionamiento de un botón simple
+70,0,2,week,Validar numero telefónico con javascript
+98,4,3,month,Poner texto sobre un borde
+207,9,1,month,¿Cómo evitar que el usuario elimine la aplicación o elimine los datos del dispositivo android?
+109,4,3,month,Cual es la diferencia entre una etiqueta y un elemento en HTML
+70,5,2,month,¿Qué significa este selector CSS?
+69,6,4,month,Llenar una cantidad de elementos en un array
+97,7,1,month,¿Comillas dobles o comillas simples en HTML?
+123,1,5,month,"¿Por qué este código tan simple y aparentemente correcto, da error de compilación?"
+65,3,1,month,¿Qué significa & antes de una variable?
+83,3,2,month,Como saber si una fecha se pasa de dos meses en JS [cerrada]
+38,4,3,month,Vue iterar 2 array en un v-for con campos que tienen una relacion
+80,9,2,month,Cuál es la diferencia entre apt install y apt-get install?
+47,1,3,month,Imprimir las primeras letras de una frase
+60,3,1,month,Comentar una linea en un fichero.log
+147,3,4,month,Consulta inner join para mostrar el nombre con la id en dos tablas PHP
+51,3,2,month,Centrar dos botones dentro de una columna
+22,0,0,hot,Como envio un file por ajax?
+19,1,1,hot,Sin efecto de animación de un Loader en CSS
+15,0,1,hot,Error al retornar a ruta Post - Laravel 5.6
+11,0,0,hot,Existe algua manera de bloquear el boton enviar formulario hasta que no haga clic en el captcha v2 google
+42,0,1,hot,Usar tipos que aceptan valores Null
+14,0,0,hot,Como puedo calcular los dias entre dos fechas de forma dinamica?
+39,1,1,hot,Posicionar option según escriba en Input
+18,0,0,hot,Al comparar un nombre con un usuario da error
+17,0,0,hot,Error en los archivos .dll en el “Web.config”
+25,0,0,hot,¿Como regresar a una seccion de una misma pagina despues de enviar un formulario en php?
+16,-1,1,hot,"Problema con procedure, concatenacion MYSQL"
+63,1,4,month,Darle eventos a un checkbox
+97,3,3,month,¿Cómo evitar un ataque GET de este tipo que convierte la web en un enlace a un video youtube?
+80,2,1,month,Calcular el área de un triángulo
+61,2,2,month,¿como bloquear el salto de linea en textarea?
+59,4,3,month,Obtener días - POO Javascript
+57,2,2,month,¿Qué diferencia hay entre un contenedor y una máquina virtual?
+69,0,1,month,Que significa el siguiente icono amarillo en Eclipse?
+64,1,2,month,¿Me pueden explicar que significa “paises.listIterator()”?
+80,0,3,month,Ejecutar MYSQL en un script de tipo bash
+80,1,3,month,Iterar distintos bucles for en 1?
+62,5,2,month,Oscurecer el fondo al clicar en botón flotante
+48,3,1,month,Error unknown type name 'ı𝗇𝗍'
+73,0,3,month,Validar campos vacios por metodo post en php
+44,3,2,month,Alinear elementos verticalmente
+90,3,3,month,Verificar si un string es una fecha en PHP
+63,2,3,month,¿Como habilitar un input text y un select que estan deshabilitados y contenidos en un tr?
+52,3,1,month,¿Cuál es la diferencia entre poner #!/usr/bin/python y no ponerlo?
+84,1,3,month,Cambiar clase css dinamicamente en javascript
+39,6,1,month,Superposicion de imagenes sin position:absolute
+64,0,3,month,Problemas al guardar fecha PHP
+63,1,1,month,Como puedo ejecutar acciones de un programa poniendo un '-' [cerrada]
+77,2,1,month,Javascript solo se me ejecuta en el primer elemento de la tabla
+75,-1,5,month,Invertir un string sin .reverse(); en JS
+69,0,1,month,Función que a veces recibe un parametro extra
+40,3,1,month,No entiendo como funciona Or en python refiero al codigo siguiente
+84,1,3,month,Estilo redondeado table html
+65,3,2,month,Algoritmo para convertir un número binario a un numero entero
+83,1,1,month,¿Por qué se puede instanciar esta interfaz?
+82,3,2,month,Dividir el ancho de la pantalla en dos contenedores
+63,2,2,month,¿Cómo podría hacer un div en forma de flecha al estar activa la opción?
+62,1,1,month,Sustituir Imágenes dentro de una Tabla. Usando JavaScript
+79,5,1,month,Suma de las horas que entre dos fechas
